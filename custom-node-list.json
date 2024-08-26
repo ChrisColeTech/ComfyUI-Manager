@@ -13223,7 +13223,7 @@
                 "https://github.com/ChrisColeTech/ComfyUI-Elegant-Resource-Monitor"
             ],
             "install_type": "git-clone",
-            "description": "Custom node to count the number of lines in a text file"
+            "description": "This custom node provides detailed insights into your CPU, GPU, and memory usage while seamlessly integrating into your workspace."
         },
         {
             "author": "dadoirie",
