@@ -13226,6 +13226,16 @@
             "description": "Custom node to count the number of lines in a text file"
         },
         {
+            "author": "ChrisColeTech",
+            "title": "https://github.com/ChrisColeTech/ComfyUI-Get-Random-File",
+            "reference": "https://github.com/ChrisColeTech/ComfyUI-Get-Random-File",
+            "files": [
+                "https://github.com/ChrisColeTech/ComfyUI-Get-Random-File"
+            ],
+            "install_type": "git-clone",
+            "description": "Custom node to get a random file, image or video from a directory"
+        },
+        {
             "author": "dadoirie",
             "title": "ComfyUI_Dados_Nodes",
             "reference": "https://github.com/dadoirie/ComfyUI_Dados_Nodes",
